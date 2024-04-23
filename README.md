@@ -8,7 +8,7 @@ Eu sou Hernandes,sou um programador Front end,atualmente estou aprendendo e cria
 
 <a href="https://www.instagram.com/hernandes.sn" />
 <img aling="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<a href="https://www.linkedin.com/in/hernandessn/">
+<a href="https://www.linkedin.com/in/hernandessn/"/>
 
 <img aling="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 <br>
