@@ -15,7 +15,7 @@ Linguagens
 <a href="https://www.instagram.com/hernandes.sn" />
 <img aling="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
-<a href="https://www.linkedin.com/in/hernandessn/"/>
+<a href="https://www.linkedin.com/in/hernandes-sales-neves-895094303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"/>
 
 <img aling="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 <br>
