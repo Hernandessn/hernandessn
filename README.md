@@ -1,5 +1,5 @@
 ### Hi there⚡️
-<section background-color="white">
+
 Olá, meu nome é Hernandes Sales, tenho 16 anos e sou um desenvolvedor Front End apaixonado por tecnologia. Desde cedo, desenvolvi um profundo interesse pelo mundo da programação e do desenvolvimento web, o que me motivou a investir meu tempo e esforço em aprimorar minhas habilidades nesta área. Estou constantemente em busca de crescimento e sucesso, com o objetivo de criar soluções inovadoras e impactantes.
 
 Considero-me uma pessoa altamente organizada e comprometida com a obtenção de resultados significativos. Minha determinação é uma das minhas principais características, e isso se reflete na maneira como enfrento desafios. Sempre que me deparo com um problema, meu primeiro impulso é buscar uma solução eficaz. Dedico-me à pesquisa e ao estudo aprofundado para encontrar as melhores abordagens, e isso me permite superar obstáculos e alcançar meus objetivos com eficiência.
@@ -23,6 +23,6 @@ Atualmente estou aprendendo e criando projetos com as seguintes tecnologias:
 <img aling="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 <br>
 <br>
-</section>
+
  
 
