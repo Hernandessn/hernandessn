@@ -18,7 +18,7 @@ Olá, meu nome é Hernandes Sales, tenho 16 anos e sou um desenvolvedor Front En
   <img  align="center" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
  </div>
 
-### Ferramentas
+### Ferramentas 🔧
 
 <div>
  <img  align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />  -
