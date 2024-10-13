@@ -35,3 +35,9 @@ Olá, meu nome é Hernandes Sales, tenho 16 anos e sou um desenvolvedor Front En
  <a href="https://www.linkedin.com/in/hernandes-sales" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
+
+
+
+![snake gif](https://github.com/hernandessn/hernandessn/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=hernandessn&repo=hernandessn&theme=react)](https://github.com/hernandessn/hernandessn)
