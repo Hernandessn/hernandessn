@@ -89,11 +89,7 @@ Confira alguns dos meus projetos mais interessantes nos repositórios abaixo! De
 
 ---
 
-## 📈 Contribuições
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hernandessn&theme=react-dark&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" />
-</div>
 
 ---
 
