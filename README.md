@@ -1,7 +1,7 @@
 # <div align="center">👋 Olá, eu sou **Hernandes Sales**!</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=30&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front+End;Sempre+Aprendendo+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=30&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;JavaScript,+Node.js,+React;Projetos+com+IA+e+APIs" />
 </div>
 
 <div align="center">
@@ -16,9 +16,10 @@
 
 ## 💫 Sobre Mim
 
-> **Desenvolvedor Front End** de 17 anos com paixão genuína por tecnologia e inovação. Minha jornada começou cedo no mundo da programação, onde descobri não apenas o desenvolvimento web, mas também o fascinante universo do **Arduino** e IoT. 
-> 
-> Estou sempre em busca de novos desafios que me permitam crescer profissionalmente, criando soluções que conectem o mundo digital ao físico através da tecnologia.
+Desenvolvedor **Full Stack** com foco em aplicações web e projetos práticos.  
+Atuo no desenvolvimento de soluções utilizando **JavaScript, Node.js, React e APIs**, com experiência em **IA aplicada**, **análise de dados** e **integração de sistemas**.
+
+Participei de competições de tecnologia e desenvolvi projetos premiados, além de atuar em projetos reais para pequenos negócios. Busco evoluir constantemente, aplicando boas práticas de código e resolvendo problemas reais através da programação.
 
 ---
 
@@ -32,23 +33,19 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
-### **Backend & Database**
+### **Backend & APIs**
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/API_REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
 </div>
 
 ### **Estilização & Frameworks**
 <div align="center">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div>
-
-### **Hardware & IoT**
-<div align="center">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </div>
 
 ### **Ferramentas & Versionamento**
@@ -74,22 +71,26 @@
 
 ---
 
+## 📄 Currículo
+
+- 📌 Currículo em PDF: [Download aqui](LINK_DO_PDF)
+- 🔗 LinkedIn: https://www.linkedin.com/in/hernandes-sales
+
+---
+
 ## 🎯 Áreas de Interesse
 
-- **💻 Desenvolvimento Frontend** - Criando interfaces modernas e responsivas
-- **🔧 Arduino & IoT** - Automação e desenvolvimentos de protótipos
-- **🌐 Desenvolvimento Full Stack** - Expandindo conhecimentos em Backend
-- **🤖 Tecnologias Emergentes** - IA, Machine Learning e suas aplicações
+- **💻 Desenvolvimento Full Stack** - Aplicações web completas e escaláveis
+- **🤖 IA Aplicada** - Integração de inteligência artificial em projetos práticos
+- **🔌 APIs & Integrações** - Desenvolvimento e consumo de APIs REST
+- **📊 Análise de Dados** - Transformando dados em insights
+- **🔧 Arduino & IoT** - Automação e desenvolvimento de protótipos
 
 ---
 
-## 🌟 Projetos em Destaque
+## 🌟 Portfólio
 
-Confira alguns dos meus projetos mais interessantes nos repositórios abaixo! Desde aplicações web e em breve até projetos com Arduino, sempre buscando unir criatividade e funcionalidade.
-
----
-
-
+Confira meus projetos e trabalhos: **[Portfolio](https://portfolio-hernandes.netlify.app/)**
 
 ---
 
