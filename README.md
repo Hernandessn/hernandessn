@@ -58,19 +58,6 @@ Participei de competições de tecnologia e desenvolvi projetos premiados, além
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hernandessn&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=00FFFF&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandessn&layout=compact&theme=radical&bg_color=0D1117&border_color=00FFFF&hide_border=false"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hernandessn&theme=radical&background=0D1117&border=00FFFF" alt="hernandessn" />
-</div>
-
----
-
 ## 📄 Currículo
 
 - 📌 Currículo em PDF: [Download aqui](LINK_DO_PDF)
@@ -84,7 +71,6 @@ Participei de competições de tecnologia e desenvolvi projetos premiados, além
 - **🤖 IA Aplicada** - Integração de inteligência artificial em projetos práticos
 - **🔌 APIs & Integrações** - Desenvolvimento e consumo de APIs REST
 - **📊 Análise de Dados** - Transformando dados em insights
-- **🔧 Arduino & IoT** - Automação e desenvolvimento de protótipos
 
 ---
 
