@@ -60,7 +60,7 @@ Participei de competições de tecnologia e desenvolvi projetos premiados, além
 
 ## 📄 Currículo
 
-- 📌 Currículo em PDF: [Download aqui](LINK_DO_PDF)
+- 📌 Currículo em PDF: [Download aqui](new-portfolio/docs/HERNANDES-CV.pdf)
 - 🔗 LinkedIn: https://www.linkedin.com/in/hernandes-sales
 
 ---
