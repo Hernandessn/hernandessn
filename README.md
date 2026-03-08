@@ -60,7 +60,7 @@ Participei de competições de tecnologia e desenvolvi projetos premiados, além
 
 ## 📄 Currículo
 
-- 📌 Currículo em PDF: [Download aqui](https://github.com/Hernandessn/new-portfolio/blob/main/docs/HERNANDES-CV.pdf)
+- Portfolio: https://portfolio-hernandes.netlify.app/
 - 🔗 LinkedIn: https://www.linkedin.com/in/hernandes-sales
 
 ---
